@@ -2,7 +2,7 @@
 // db.php: Conexión a la base de datos
 
 $host = 'localhost';
-$db = 'auth_service';
+$db = 'huellas_max';
 $user = 'root'; // Cambia esto si tienes un usuario distinto
 $pass = ''; // Cambia esto si tienes una contraseña
 
